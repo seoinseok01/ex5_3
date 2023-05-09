@@ -1,0 +1,7 @@
+﻿  ex5_3.c
+C:\Users\inseok\source\repos\Project6\Project6\ex5_3.c(2,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'stackL.h': No such file or directory
+  stackL.c
+C:\Users\inseok\source\repos\Project6\Project6\stackL.c(2,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'stackL.h': No such file or directory
+  testPair.c
+C:\Users\inseok\source\repos\Project6\Project6\testPair.c(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'stackL.h': No such file or directory
+  코드를 생성하고 있습니다...
